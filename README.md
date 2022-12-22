@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @programmerbiasa
 - 👀 I’m interested in desktop, mobile and web application
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning whatever that support my job and my partner worker ...
 - 💞️ I’m looking to collaborate on useful and continuous integration and continuous delivery
 - 📫 How to reach me https://beldnlat147.blogspot.com/
 
